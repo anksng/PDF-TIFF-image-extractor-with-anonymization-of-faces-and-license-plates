@@ -1,8 +1,3 @@
-# PDF-TIFF-image-extractor-with-anonymization-of-faces-and-license-plates
-This CLI-tool extracts images from PDF and TIFF files. Faces and license plates if found are anonymized with a mask.
-
-
-
 # Usage instructions
 
 ## Requirements:
@@ -47,13 +42,10 @@ This should start processing and saving the anonymized images extracted from pdf
 <br>
 To `stop` the process at any time - press `control(^) + z`. 
 <br>
+Note that, all files with extension `.pdf` and `.tiff` within the root dir will be processed.<br>
 
-Notes:
-1. All files with extension `.pdf` and `.tiff` within the root dir will be processed.<br>
-
-2. Also, note that running on linux might have conflicts due to python version. <br>
+Also, note that running linux might have conflicts due to python version. <br>
 Please follow the steps as above to make sure that `python --version` returns `python 3.6+`.
 If `python --version` return `python 3.7`, do the following ->
-* Replace the PyMuPDF.whl file with the correct version (`**cp37**_**manylinux**`) from https://pypi.org/project/PyMuPDF/#files . Then change the corresponding filename in script_linux.sh. 
-
-If facing any issues please write at ankit1201singh@gmail.com
+* Replace the PyMuPDF.whl file with the correct version (`**cp37**_**manylinux**`) from https://pypi.org/project/PyMuPDF/#files .
+* Change the corresponding filename in script_linux.sh. 
