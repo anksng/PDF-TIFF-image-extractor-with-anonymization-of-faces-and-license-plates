@@ -7,9 +7,9 @@ Mac OS or Linux
 ## Steps :
 ### To use the anonymization tool :
 
-1. Download `'anonymization_pdf/'` and save to any location.
+1. Download repository folder and save to any location and extract.
 2. If saved in `'Downloads/'` then run the following commands :
-    * `cd Downloads/anonymization_pdf`
+    * `cd Downloads/{extracted dir}`
     *  `./script.sh` (do not create or activate any virtual env before!)
 3. Paste the path of root dir where files are stored when prompted.
 4. When prompted `Would you like to use the same directory to store masked images? RECOMMENDED- YES!` - 
@@ -27,11 +27,11 @@ Note that, all files with extension `.pdf` and `.tiff` within the root dir will 
 
 ## Steps :
 ### To use anonymization tool :
-1. Download `'anonymization_pdf/'` and save to any location.
+1. Download repository folder  and save to any location and extract.
 2. Install python - `sudo apt install python3`
 3. Install venv - `sudo apt install python3-venv`
 4. Now open the lcoation of anonimyzation_pdf dir. If saved in `'Downloads/'` then run the following commands :
-    * `cd Downloads/anonymization_pdf`
+    * `cd Downloads/{extracted dir}`
     *  `./script_linux.sh` (do not create or activate any virtual env before!)
     <br>
 5. When prompted `Would you like to use the same directory to store masked images? RECOMMENDED- YES!` 
