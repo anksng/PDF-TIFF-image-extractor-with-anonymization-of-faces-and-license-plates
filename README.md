@@ -49,3 +49,6 @@ Please follow the steps as above to make sure that `python --version` returns `p
 If `python --version` return `python 3.7`, do the following ->
 * Replace the PyMuPDF.whl file with the correct version (`**cp37**_**manylinux**`) from https://pypi.org/project/PyMuPDF/#files .
 * Change the corresponding filename in script_linux.sh. 
+
+
+IF USING THIS TOOL AND FACING ISSUES WRITE AT - ankit1201singh@gmail.com
