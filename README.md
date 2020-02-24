@@ -51,4 +51,4 @@ If `python --version` return `python 3.7`, do the following ->
 * Change the corresponding filename in script_linux.sh. 
 
 
-IF USING THIS TOOL AND FACING ISSUES WRITE AT - ankit1201singh@gmail.com
+IF USING THIS TOOL AND FACING ISSUES or TO ORDER A SPECIFIC FEATURE WITH GUI (linux and mac) write at - ankit1201singh@gmail.com
