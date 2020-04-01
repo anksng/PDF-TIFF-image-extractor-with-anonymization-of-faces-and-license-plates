@@ -1,3 +1,4 @@
+# Image anonymization CLI tool (uses deep learning based image classification model) 
 # Usage instructions
 
 ## Requirements:
