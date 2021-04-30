@@ -118,7 +118,7 @@ tqdm==4.41.1
 traitlets==4.3.3
 turicreate==5.7
 typed-ast==1.4.0
-urllib3==1.25.7
+urllib3==1.25.8
 wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==0.16.0
