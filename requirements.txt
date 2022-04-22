@@ -95,7 +95,7 @@ pylint==2.4.4
 PyMuPDF==1.16.10
 pyparsing==2.4.6
 pyPdf==1.13
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyrsistent==0.15.7
 pytest==5.3.2
 pytest-pylint==0.14.1
